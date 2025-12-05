@@ -1,0 +1,6 @@
+.vs/
+[oO]bj/
+[bB]in/
+packages/
+*.user
+carrot_errors.txt
